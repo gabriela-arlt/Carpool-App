@@ -1,0 +1,205 @@
+ID,Timestamp,WeekDay,StartLocation,EndLocation,DriverID,PassangerID,PassangerCount
+1,2024-08-01 06:15:00,Thursday,Wasserturm Würselen,Office,10061.0,"50014, 10035",2
+2,2024-08-01 17:30:00,Thursday,Office,Sporting Heerlen,40014.0,"10018, 40015, 50008, 10108",4
+3,2024-08-02 08:00:00,Friday,Dekathlon Kerkrade,Office,10076.0,10032,1
+4,2024-08-02 19:15:00,Friday,Office,Sporting Heerlen,10061.0,"50015, 10088",2
+5,2024-08-05 16:15:00,Monday,Office,Sporting Heerlen,20011.0,10071,1
+6,2024-08-05 06:45:00,Monday,Dekathlon Kerkrade,Office,10057.0,"10128, 10032, 10040, 10068",4
+7,2024-08-06 18:00:00,Tuesday,Office,Wasserturm Würselen,40010.0,30002,1
+8,2024-08-06 07:30:00,Tuesday,Wasserturm Würselen,Office,10103.0,"10126, 10022, 50007",3
+9,2024-08-07 17:45:00,Wednesday,Office,Basisschool,10087.0,10117,1
+10,2024-08-08 06:15:00,Thursday,Station Heerlen,Office,10113.0,"50003, 50010, 20003",3
+11,2024-08-09 08:15:00,Friday,Rewe,Office,10061.0,"10003, 10085, 10115, 10016",4
+12,2024-08-12 19:00:00,Monday,Office,DM Drogerie Markt,10003.0,"10018, 10016, 10116, 10052",4
+13,2024-08-13 16:00:00,Tuesday,Office,DM Drogerie Markt,10086.0,"10006, 50010, 10058, 20013",4
+14,2024-08-14 07:45:00,Wednesday,Basisschool,Office,50010.0,"10071, 10017",2
+15,2024-08-15 18:30:00,Thursday,Office,Station Heerlen,10028.0,"10110, 10079, 10021, 20003",4
+16,2024-08-16 06:30:00,Friday,Station Heerlen,Office,40002.0,10102,1
+17,2024-08-19 08:00:00,Monday,Sporting Heerlen,Office,10106.0,"40019, 10083",2
+18,2024-08-19 17:00:00,Monday,Office,DM Drogerie Markt,30004.0,"50003, 10113",2
+19,2024-08-20 16:15:00,Tuesday,Office,Station Heerlen,40018.0,"10035, 20005",2
+20,2024-08-21 07:00:00,Wednesday,Dekathlon Kerkrade,Office,50002.0,"30001, 40019, 50007, 10035",4
+21,2024-08-22 18:45:00,Thursday,Office,Dekathlon Kerkrade,40019.0,"10013, 40017, 10086",3
+22,2024-08-23 08:30:00,Friday,APS Groep,Office,30001.0,"50009, 40002, 10086, 10006",4
+23,2024-08-26 19:15:00,Monday,Office,Basisschool,10019.0,10041,1
+24,2024-08-27 07:15:00,Tuesday,APS Groep,Office,10052.0,20015,1
+25,2024-08-28 16:45:00,Wednesday,Office,Rewe,10055.0,"30005, 30006, 40001",3
+26,2024-08-29 06:00:00,Thursday,Basisschool,Office,10043.0,"20012, 10054, 50014",3
+27,2024-08-30 17:30:00,Friday,Office,Albert Heijn,10055.0,"10058, 10099, 10050",3
+28,2024-09-02 07:00:00,Monday,Sporting Heerlen,Office,10101.0,"10053, 10033",2
+29,2024-09-03 19:30:00,Tuesday,Office,APS Groep,40015.0,"10071, 10024, 20003",3
+30,2024-09-04 08:45:00,Wednesday,Dekathlon Kerkrade,Office,10124.0,"50002, 50014",2
+31,2024-09-05 16:30:00,Thursday,Office,Rewe,20008.0,"10051, 20002",2
+32,2024-09-06 07:45:00,Friday,Basisschool,Office,10103.0,"50011, 10029, 20020, 50003",4
+33,2024-09-09 18:00:00,Monday,Office,Station Heerlen,20014.0,"10053, 10121, 30006, 10094",4
+34,2024-09-10 06:15:00,Tuesday,Station Heerlen,Office,10060.0,"20019, 20015, 10110, 10014",4
+35,2024-09-11 17:45:00,Wednesday,Office,Wasserturm Würselen,10041.0,"20013, 20012",2
+36,2024-09-12 08:00:00,Thursday,Station Heerlen,Office,10084.0,"20002, 40005, 10095, 10016",4
+37,2024-09-12 19:00:00,Thursday,Office,APS Groep,10060.0,"10017, 10071",2
+38,2024-09-13 08:30:00,Friday,Station Heerlen,Office,20005.0,"10068, 20007",2
+39,2024-09-16 07:15:00,Monday,Dekathlon Kerkrade,Office,10115.0,"50007, 40008, 10014, 10013",4
+40,2024-09-17 16:15:00,Tuesday,Office,Station Heerlen,40019.0,"10019, 10004",2
+41,2024-09-18 06:30:00,Wednesday,Basisschool,Office,30005.0,10071,1
+42,2024-09-19 18:45:00,Thursday,Office,Rewe,30005.0,"10105, 10122",2
+43,2024-09-20 07:30:00,Friday,Dekathlon Kerkrade,Office,10026.0,"40012, 10008, 10031, 50003",4
+44,2024-09-23 19:00:00,Monday,Office,Wasserturm Würselen,10073.0,"20013, 10118, 10126",3
+45,2024-09-24 06:30:00,Tuesday,Basisschool,Office,50014.0,10015,1
+46,2024-09-25 17:00:00,Wednesday,Office,APS Groep,10102.0,"10056, 10113, 50011, 20008",4
+47,2024-09-26 08:00:00,Thursday,Albert Heijn,Office,20010.0,30006,1
+48,2024-09-27 16:00:00,Friday,Office,Rewe,10006.0,"50008, 10111",2
+49,2024-09-30 07:45:00,Monday,Station Heerlen,Office,10063.0,"50009, 10104",2
+50,2024-10-01 18:30:00,Tuesday,Office,Basisschool,10069.0,"10054, 40017",2
+51,2024-10-02 06:45:00,Wednesday,APS Groep,Office,30004.0,"20005, 20019, 10005, 10062",4
+52,2024-10-03 17:15:00,Thursday,Office,Station Heerlen,10094.0,10118,1
+53,2024-10-04 08:15:00,Friday,Albert Heijn,Office,10083.0,10078,1
+54,2024-10-07 19:30:00,Monday,Office,Station Heerlen,10121.0,"40015, 10076",2
+55,2024-10-08 06:00:00,Tuesday,APS Groep,Office,10016.0,"50008, 10076, 50017",3
+56,2024-10-09 16:45:00,Wednesday,Office,Dekathlon Kerkrade,40019.0,"10072, 30006, 10053, 10021",4
+57,2024-10-10 07:30:00,Thursday,Station Heerlen,Office,50010.0,"10059, 10003",2
+58,2024-10-11 18:00:00,Friday,Office,EDEKA Adebahr,10124.0,20015,1
+59,2024-10-14 08:45:00,Monday,Basisschool,Office,10052.0,"10093, 10062",2
+60,2024-10-15 17:30:00,Tuesday,Office,Wasserturm Würselen,10076.0,"40002, 10067, 10006, 10097",4
+61,2024-10-16 06:15:00,Wednesday,Wasserturm Würselen,Office,10036.0,"10108, 30003, 30009, 10032",4
+62,2024-10-17 19:00:00,Thursday,Office,Wasserturm Würselen,20002.0,"20009, 40009",2
+63,2024-10-18 07:00:00,Friday,EDEKA Adebahr,Office,10093.0,10127,1
+64,2024-10-21 16:30:00,Monday,Office,DM Drogerie Markt,10072.0,"10118, 10023, 10012, 40015",4
+65,2024-10-22 08:15:00,Tuesday,Basisschool,Office,20012.0,"50004, 10086",2
+66,2024-10-23 18:15:00,Wednesday,Office,Wasserturm Würselen,50011.0,"10016, 10058",2
+67,2024-10-24 06:45:00,Thursday,Rewe,Office,20009.0,50003,1
+68,2024-10-25 17:00:00,Friday,Office,EDEKA Adebahr,50001.0,"50012, 10086",2
+69,2024-10-28 08:00:00,Monday,Wasserturm Würselen,Office,10066.0,10085,1
+70,2024-10-29 19:15:00,Tuesday,Office,Station Heerlen,10055.0,10033,1
+71,2024-10-30 07:45:00,Wednesday,EDEKA Adebahr,Office,10004.0,"10048, 10127, 10085, 40011",4
+72,2024-10-31 16:00:00,Thursday,Office,APS Groep,50007.0,"50006, 10094",2
+73,2024-08-01 08:30:00,Thursday,APS Groep,Office,10122.0,10059,1
+74,2024-08-02 19:15:00,Friday,Office,Dekathlon Kerkrade,10011.0,40003,1
+75,2024-08-05 06:00:00,Monday,Rewe,Office,50008.0,"10119, 10057, 10076",3
+76,2024-08-06 17:00:00,Tuesday,Office,Sporting Heerlen,10014.0,"50003, 20007, 10078, 10023",4
+77,2024-08-07 08:00:00,Wednesday,Albert Heijn,Office,10052.0,"30006, 10009",2
+78,2024-08-08 18:30:00,Thursday,Office,DM Drogerie Markt,10051.0,"20002, 40017, 40009",3
+79,2024-08-09 07:15:00,Friday,Dekathlon Kerkrade,Office,10055.0,"40009, 40014, 10039",3
+80,2024-08-12 16:45:00,Monday,Office,EDEKA Adebahr,50016.0,30007,1
+81,2024-08-13 06:30:00,Tuesday,Rewe,Office,50010.0,"10024, 20019, 10026, 10022",4
+82,2024-08-14 19:00:00,Wednesday,Office,Albert Heijn,30006.0,"20009, 40005, 20019",3
+83,2024-08-15 07:00:00,Thursday,Wasserturm Würselen,Office,40016.0,"10070, 50014, 10121, 50011",4
+84,2024-08-16 16:15:00,Friday,Office,APS Groep,10051.0,"50014, 10094, 50015, 10042",4
+85,2024-08-19 08:45:00,Monday,Albert Heijn,Office,20006.0,"10071, 10052, 10028",3
+86,2024-08-20 07:30:00,Tuesday,Station Heerlen,Office,10045.0,"10103, 40007, 10068, 10120",4
+87,2024-08-21 18:00:00,Wednesday,Office,APS Groep,10065.0,"20003, 10105",2
+88,2024-08-22 08:15:00,Thursday,Wasserturm Würselen,Office,10002.0,"10109, 30002",2
+89,2024-08-23 19:30:00,Friday,Office,EDEKA Adebahr,20002.0,"50018, 10056, 10116",3
+90,2024-08-26 06:15:00,Monday,Dekathlon Kerkrade,Office,10104.0,"20001, 40001, 20018",3
+91,2024-08-27 17:30:00,Tuesday,Office,Station Heerlen,40004.0,"10060, 50012, 50018, 10027",4
+92,2024-08-28 08:00:00,Wednesday,Wasserturm Würselen,Office,50004.0,"10050, 10111, 10108, 10089",4
+93,2024-08-29 18:45:00,Thursday,Office,Station Heerlen,10093.0,"20012, 10096",2
+94,2024-08-30 07:45:00,Friday,Dekathlon Kerkrade,Office,10070.0,"20010, 10037",2
+95,2024-09-02 06:00:00,Monday,DM Drogerie Markt,Office,10043.0,10090,1
+96,2024-09-03 17:15:00,Tuesday,Office,Sporting Heerlen,10114.0,10033,1
+97,2024-09-04 08:30:00,Wednesday,EDEKA Adebahr,Office,10118.0,"40018, 10018",2
+98,2024-09-05 19:00:00,Thursday,Office,Albert Heijn,10078.0,"20016, 10118, 10061, 20019",4
+99,2024-09-06 07:00:00,Friday,APS Groep,Office,30001.0,"10026, 10109, 10060",3
+100,2024-09-09 16:45:00,Monday,Office,Dekathlon Kerkrade,40014.0,50015,1
+101,2024-09-10 06:30:00,Tuesday,EDEKA Adebahr,Office,10076.0,"10124, 30002, 10079, 10089",4
+102,2024-09-11 08:00:00,Wednesday,DM Drogerie Markt,Office,10100.0,"10043, 50003, 10037",3
+103,2024-09-12 19:15:00,Thursday,Office,Rewe,10051.0,10084,1
+104,2024-09-13 07:45:00,Friday,Wasserturm Würselen,Office,10039.0,"10112, 10037",2
+105,2024-09-16 18:30:00,Monday,Office,Rewe,10101.0,"10076, 10079, 10100",3
+106,2024-09-17 06:15:00,Tuesday,Dekathlon Kerkrade,Office,10076.0,"10024, 50016, 50017, 10097",4
+107,2024-09-18 17:00:00,Wednesday,Office,Sporting Heerlen,10012.0,10128,1
+108,2024-09-19 08:45:00,Thursday,Rewe,Office,40006.0,20005,1
+109,2024-09-20 06:00:00,Friday,Sporting Heerlen,Office,10052.0,10018,1
+110,2024-09-23 19:30:00,Monday,Office,Wasserturm Würselen,10096.0,"10124, 10034",2
+111,2024-09-24 08:15:00,Tuesday,Sporting Heerlen,Office,40008.0,"10039, 40003, 10101, 30003",4
+112,2024-09-25 16:30:00,Wednesday,Office,Dekathlon Kerkrade,10079.0,"10034, 10001, 10120",3
+113,2024-09-26 07:00:00,Thursday,APS Groep,Office,10048.0,20008,1
+114,2024-09-27 18:00:00,Friday,Office,Sporting Heerlen,10015.0,"10012, 10065",2
+115,2024-09-30 07:30:00,Monday,Wasserturm Würselen,Office,20011.0,"10081, 10040, 10076, 10109",4
+116,2024-10-01 16:00:00,Tuesday,Office,Basisschool,10025.0,"20001, 10072, 30002, 10067",4
+117,2024-10-02 08:30:00,Wednesday,Dekathlon Kerkrade,Office,40008.0,"10055, 10033",2
+118,2024-10-03 18:15:00,Thursday,Office,Basisschool,20019.0,"10028, 40011",2
+119,2024-10-04 06:45:00,Friday,DM Drogerie Markt,Office,10062.0,"50004, 10083",2
+120,2024-10-07 19:00:00,Monday,Office,Albert Heijn,10012.0,"10090, 30003",2
+121,2024-10-08 07:15:00,Tuesday,Rewe,Office,10118.0,"10125, 10025, 10051",3
+122,2024-10-09 16:15:00,Wednesday,Office,Sporting Heerlen,40006.0,"20003, 40011, 30004",3
+123,2024-10-10 08:00:00,Thursday,Rewe,Office,20016.0,"10033, 10053, 10022, 30001",4
+124,2024-10-11 19:15:00,Friday,Office,Sporting Heerlen,10080.0,"10074, 10115, 50001, 10085",4
+125,2024-10-14 06:30:00,Monday,Rewe,Office,10044.0,"10002, 10101, 10090, 40014",4
+126,2024-10-15 17:30:00,Tuesday,Office,Sporting Heerlen,10060.0,"50015, 40012",2
+127,2024-10-16 08:45:00,Wednesday,Wasserturm Würselen,Office,10019.0,"10079, 10128, 40009, 20005",4
+128,2024-10-17 07:00:00,Thursday,Basisschool,Office,20016.0,10119,1
+129,2024-10-18 18:00:00,Friday,Office,Basisschool,10123.0,50017,1
+130,2024-10-21 06:15:00,Monday,Rewe,Office,10103.0,"10001, 10036, 10053, 30008",4
+131,2024-10-22 19:00:00,Tuesday,Office,Basisschool,50005.0,"10095, 10120, 10085",3
+132,2024-10-23 07:30:00,Wednesday,Sporting Heerlen,Office,40004.0,40006,1
+133,2024-10-24 16:00:00,Thursday,Office,Station Heerlen,10038.0,"40006, 10058, 10069",3
+134,2024-10-25 08:15:00,Friday,Sporting Heerlen,Office,10002.0,10098,1
+135,2024-10-28 07:45:00,Monday,Rewe,Office,10115.0,"30002, 10072, 10014",3
+136,2024-10-29 18:30:00,Tuesday,Office,Basisschool,10043.0,"10117, 10017, 50005, 20004",4
+137,2024-10-30 06:45:00,Wednesday,Wasserturm Würselen,Office,10038.0,"30001, 10095, 20008",3
+138,2024-10-31 17:15:00,Thursday,Office,Albert Heijn,10101.0,"10111, 10047, 10122, 20019",4
+139,2024-11-01 06:32:00,Friday,Sporting Heerlen,Office,20008.0,10127,1
+140,2024-11-01 18:41:00,Friday,Office,Albert Heijn,10057.0,20009,1
+141,2024-11-01 07:12:00,Friday,APS Groep,Office,50016.0,"10005, 20017, 10111, 10079",4
+142,2024-11-01 19:07:00,Friday,Office,Basisschool,10004.0,"10013, 10064, 10091",3
+143,2024-11-04 08:22:00,Monday,DM Drogerie Markt,Office,10042.0,"20004, 10040, 10105, 10093",4
+144,2024-11-04 17:55:00,Monday,Office,Albert Heijn,10028.0,"10091, 10107, 10101, 10014",4
+145,2024-11-04 18:01:00,Monday,Office,APS Groep,10124.0,"40013, 20013, 10033, 10049",4
+146,2024-11-05 06:47:00,Tuesday,Station Heerlen,Office,10066.0,"10117, 10105, 10048",3
+147,2024-11-05 16:31:00,Tuesday,Office,Basisschool,10050.0,"10005, 30002, 50009, 10075",4
+148,2024-11-05 17:29:00,Tuesday,Office,Sporting Heerlen,50001.0,"50018, 10071, 10031",3
+149,2024-11-06 06:56:00,Wednesday,Station Heerlen,Office,10062.0,"10109, 10008",2
+150,2024-11-06 18:12:00,Wednesday,Office,DM Drogerie Markt,10054.0,"40015, 10045, 10077",3
+151,2024-11-06 07:45:00,Wednesday,DM Drogerie Markt,Office,10026.0,"20009, 10072, 10074, 10037",4
+152,2024-11-06 19:16:00,Wednesday,Office,APS Groep,10004.0,"40002, 20005, 10104",3
+153,2024-11-07 07:39:00,Thursday,Rewe,Office,30001.0,"30010, 20001",2
+154,2024-11-07 16:28:00,Thursday,Office,Wasserturm Würselen,50008.0,"10084, 50002, 40008",3
+155,2024-11-07 19:02:00,Thursday,Office,Albert Heijn,20013.0,"10011, 50015, 30002, 20015",4
+156,2024-11-08 06:50:00,Friday,DM Drogerie Markt,Office,30006.0,20001,1
+157,2024-11-08 17:42:00,Friday,Office,EDEKA Adebahr,40009.0,"10074, 40018, 10122",3
+158,2024-11-08 08:16:00,Friday,DM Drogerie Markt,Office,10120.0,10106,1
+159,2024-11-11 08:34:00,Monday,Dekathlon Kerkrade,Office,10014.0,40015,1
+160,2024-11-11 16:10:00,Monday,Office,Dekathlon Kerkrade,10047.0,"10003, 10019, 10074, 10065",4
+161,2024-11-11 09:04:00,Monday,Basisschool,Office,10009.0,"10022, 10080, 10083, 50003",4
+162,2024-11-12 07:27:00,Tuesday,Albert Heijn,Office,10125.0,"10114, 30007, 10112",3
+163,2024-11-12 18:07:00,Tuesday,Office,APS Groep,10063.0,"30007, 30005",2
+164,2024-11-12 09:39:00,Tuesday,DM Drogerie Markt,Office,30003.0,"50016, 20005",2
+165,2024-11-12 16:59:00,Tuesday,Office,Wasserturm Würselen,10040.0,10006,1
+166,2024-11-13 07:54:00,Wednesday,Wasserturm Würselen,Office,30006.0,10068,1
+167,2024-11-13 16:20:00,Wednesday,Office,Albert Heijn,50010.0,20015,1
+168,2024-11-13 08:43:00,Wednesday,DM Drogerie Markt,Office,50012.0,"10056, 40002, 50017, 20015",4
+169,2024-11-13 19:35:00,Wednesday,Office,Sporting Heerlen,40015.0,"50004, 10089, 10011",3
+170,2024-11-14 06:13:00,Thursday,Rewe,Office,10021.0,50014,1
+171,2024-11-14 18:24:00,Thursday,Office,Albert Heijn,10034.0,10007,1
+172,2024-11-14 09:21:00,Thursday,Rewe,Office,10088.0,"10012, 10005",2
+173,2024-11-15 07:10:00,Friday,DM Drogerie Markt,Office,10111.0,"10017, 30002",2
+174,2024-11-15 16:47:00,Friday,Office,Albert Heijn,50001.0,"10116, 10126, 10118",3
+175,2024-11-15 08:08:00,Friday,Albert Heijn,Office,10030.0,"20006, 50015",2
+176,2024-11-18 07:19:00,Monday,Albert Heijn,Office,10075.0,"30009, 50014",2
+177,2024-11-18 18:06:00,Monday,Office,Albert Heijn,10062.0,"40013, 10115, 10034",3
+178,2024-11-18 16:53:00,Monday,Office,Albert Heijn,10120.0,"40016, 10122, 40002, 20019",4
+179,2024-11-19 06:31:00,Tuesday,DM Drogerie Markt,Office,10117.0,"10080, 10036, 30009, 10029",4
+180,2024-11-19 17:09:00,Tuesday,Office,APS Groep,50002.0,"10082, 30008, 10042, 10012",4
+181,2024-11-19 09:05:00,Tuesday,Albert Heijn,Office,50005.0,10040,1
+182,2024-11-19 19:48:00,Tuesday,Office,Sporting Heerlen,10018.0,"10073, 10029, 10101",3
+183,2024-11-20 07:32:00,Wednesday,Rewe,Office,10100.0,10092,1
+184,2024-11-20 17:23:00,Wednesday,Office,Sporting Heerlen,20007.0,"50006, 40003, 10042",3
+185,2024-11-20 08:01:00,Wednesday,EDEKA Adebahr,Office,10055.0,"10074, 10097",2
+186,2024-11-21 06:17:00,Thursday,Basisschool,Office,20018.0,"10078, 40004",2
+187,2024-11-21 16:14:00,Thursday,Office,APS Groep,40014.0,"10046, 10099, 10118",3
+188,2024-11-21 08:25:00,Thursday,Basisschool,Office,30005.0,"10006, 40003, 40009, 10013",4
+189,2024-11-22 06:35:00,Friday,Albert Heijn,Office,40002.0,10074,1
+190,2024-11-22 19:05:00,Friday,Office,Albert Heijn,50008.0,"10123, 20005, 20006",3
+191,2024-11-22 09:13:00,Friday,DM Drogerie Markt,Office,10094.0,"40004, 10127, 10015",3
+192,2024-11-25 07:03:00,Monday,Station Heerlen,Office,10008.0,"50009, 20009, 20002",3
+193,2024-11-25 17:20:00,Monday,Office,Albert Heijn,20020.0,10072,1
+194,2024-11-25 08:09:00,Monday,EDEKA Adebahr,Office,10063.0,"10017, 20020",2
+195,2024-11-26 06:45:00,Tuesday,Wasserturm Würselen,Office,10115.0,"10054, 10112",2
+196,2024-11-26 16:39:00,Tuesday,Office,APS Groep,30006.0,"40008, 20015, 20007, 10085",4
+197,2024-11-26 07:26:00,Tuesday,Dekathlon Kerkrade,Office,20003.0,10128,1
+198,2024-11-26 18:59:00,Tuesday,Office,EDEKA Adebahr,10016.0,"50012, 10119",2
+199,2024-11-27 08:02:00,Wednesday,Rewe,Office,10021.0,10094,1
+200,2024-11-27 16:38:00,Wednesday,Office,EDEKA Adebahr,10098.0,"10029, 10036",2
+201,2024-11-27 06:22:00,Wednesday,Wasserturm Würselen,Office,10122.0,10104,1
+202,2024-11-27 19:29:00,Wednesday,Office,Dekathlon Kerkrade,50013.0,10120,1
+203,2024-11-28 08:48:00,Thursday,Basisschool,Office,10114.0,"10031, 10119, 20013",3
+204,2024-11-28 16:41:00,Thursday,Office,Albert Heijn,10022.0,"10003, 10077",2

@@ -1,0 +1,12 @@
+LocationID,LocationName,Address,Lattitude,Longtitude,Distance to Office (in km)
+1,Office,"Avantisallee 152, 6422 RA Heerlen",50.84,6.02,0.0
+2,Station Heerlen,"Stationstraat 6411, 6411 LM Heerlen",50.89,5.98,6.4
+3,Sporting Heerlen,"Boerhaavestraat 36, 6412 VJ Heerlen",50.90,5.98,7.2
+4,Albert Heijn,"Sittarderweg 152, 6412 CM Heerlen",50.90,5.97,7.6
+5,Basisschool,"Mijnzetellaan 4, 6412 EN Heerlen",50.90,5.96,7.8
+6,APS Groep,"Heerlenseweg 200, 6371 HX Landgraaf",50.89,6.00,6.1
+7,Dekathlon Kerkrade,"Wiebachstraat 75, 6466 NG Kerkrade",50.86,6.01,2.3
+8,Rewe,"Voccartstraße 65-69, 52134 Herzogenrath",50.85,6.08,4.4
+9,DM Drogerie Markt,"Roermonder Str. 180, 52134 Herzogenrath",50.84,6.08,4.2
+10,EDEKA Adebahr,"Kaiserstraße 131, 52134 Herzogenrath",50.83,6.08,4.4
+11,Wasserturm Würselen,"Niederbardenberger Str. 21a, 52146 Würselen",50.84,6.11,6.3

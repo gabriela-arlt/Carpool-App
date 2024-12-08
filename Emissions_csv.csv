@@ -1,0 +1,205 @@
+RideID,Timestamp,WeekDay,StartLocation,EndLocation,Distance,DriverID,Offered Seats,PassangerID 1,PassangerID 2,PassangerID 3,PassangerID 4,PassangerCount,AvailableSeats,PotentialSavings,Emissions Saved in kg
+27,2024-08-30 17:30:00,Friday,Office,Aachen Hauptbahnhof,9.3,10055,3,10058,10099,10050,,3,0,,4.49
+82,2024-08-14 19:00:00,Wednesday,Office,Aachen Hauptbahnhof,9.3,30006,3,20009,40005,20019,,3,0,,4.49
+98,2024-09-05 19:00:00,Thursday,Office,Aachen Hauptbahnhof,9.3,10078,4,20016,10118,10061,20019,4,0,,5.98
+120,2024-10-07 19:00:00,Monday,Office,Aachen Hauptbahnhof,9.3,10012,2,50008,20003,,,2,0,,2.99
+138,2024-10-31 17:15:00,Thursday,Office,Aachen Hauptbahnhof,9.3,10101,2,30006,20012,,,2,0,,2.99
+140,2024-11-01 18:41:00,Friday,Office,Aachen Hauptbahnhof,9.3,10057,2,10021,,,,1,1,,1.50
+144,2024-11-04 17:55:00,Monday,Office,Aachen Hauptbahnhof,9.3,10028,2,10093,40018,,,2,0,,2.99
+155,2024-11-07 19:02:00,Thursday,Office,Aachen Hauptbahnhof,9.3,20013,2,40009,30002,,,2,0,,2.99
+167,2024-11-13 16:20:00,Wednesday,Office,Aachen Hauptbahnhof,9.3,50010,4,10086,10024,10050,50017,4,0,,5.98
+171,2024-11-14 18:24:00,Thursday,Office,Albert Heijn,7.6,10034,2,10127,10128,,,2,0,,2.45
+174,2024-11-15 16:47:00,Friday,Office,Albert Heijn,7.6,50001,3,50006,,,,1,2,,1.22
+177,2024-11-18 18:06:00,Monday,Office,Albert Heijn,7.6,10062,3,40003,,,,1,2,,1.22
+178,2024-11-18 16:53:00,Monday,Office,Albert Heijn,7.6,10120,3,10119,,,,1,2,,1.22
+190,2024-11-22 19:05:00,Friday,Office,Albert Heijn,7.6,50008,2,40009,,,,1,1,,1.22
+193,2024-11-25 17:20:00,Monday,Office,Albert Heijn,7.6,20020,2,30007,,,,1,1,,1.22
+204,2024-11-28 16:41:00,Thursday,Office,Albert Heijn,7.6,10022,2,50011,10120,,,2,0,,2.45
+29,2024-09-03 19:30:00,Tuesday,Office,APS Groep,6.1,40015,3,10071,10024,20003,,3,0,,2.95
+37,2024-09-12 19:00:00,Thursday,Office,APS Groep,6.1,10060,2,10017,10071,,,2,0,,1.97
+46,2024-09-25 17:00:00,Wednesday,Office,APS Groep,6.1,10102,4,10056,10113,50011,20008,4,0,,3.94
+72,2024-10-31 16:00:00,Thursday,Office,APS Groep,6.1,50007,2,50006,10094,,,2,0,,1.97
+84,2024-08-16 16:15:00,Friday,Office,APS Groep,6.1,10051,4,50014,10094,50015,10042,4,0,,3.94
+87,2024-08-21 18:00:00,Wednesday,Office,APS Groep,6.1,10065,2,20003,10105,,,2,0,,1.97
+145,2024-11-04 18:01:00,Monday,Office,APS Groep,6.1,10124,3,10062,,,,1,2,,0.98
+152,2024-11-06 19:16:00,Wednesday,Office,APS Groep,6.1,10004,2,30009,10060,,,2,0,,1.97
+163,2024-11-12 18:07:00,Tuesday,Office,APS Groep,6.1,10063,3,10016,10037,10076,,3,0,,2.95
+180,2024-11-19 17:09:00,Tuesday,Office,APS Groep,6.1,50002,2,10076,,,,1,1,,0.98
+187,2024-11-21 16:14:00,Thursday,Office,APS Groep,6.1,40014,2,20002,,,,1,1,,0.98
+196,2024-11-26 16:39:00,Tuesday,Office,APS Groep,6.1,30006,1,10026,,,,1,0,,0.98
+9,2024-08-07 17:45:00,Wednesday,Office,Basisschool,7.8,10087,1,10117,,,,1,0,,1.26
+23,2024-08-26 19:15:00,Monday,Office,Basisschool,7.8,10019,1,10041,,,,1,0,,1.26
+50,2024-10-01 18:30:00,Tuesday,Office,Basisschool,7.8,10069,2,10054,40017,,,2,0,,2.52
+116,2024-10-01 16:00:00,Tuesday,Office,Basisschool,7.8,10025,2,10113,10103,,,2,0,,2.52
+118,2024-10-03 18:15:00,Thursday,Office,Basisschool,7.8,20019,2,20008,10068,,,2,0,,2.52
+129,2024-10-18 18:00:00,Friday,Office,Basisschool,7.8,10123,2,10062,20018,,,2,0,,2.52
+131,2024-10-22 19:00:00,Tuesday,Office,Basisschool,7.8,50005,2,10078,10108,,,2,0,,2.52
+136,2024-10-29 18:30:00,Tuesday,Office,Basisschool,7.8,10043,1,50017,,,,1,0,,1.26
+142,2024-11-01 19:07:00,Friday,Office,Contipark Aachen,8.3,10004,3,10003,10090,,,2,1,,2.67
+147,2024-11-05 16:31:00,Tuesday,Office,Contipark Aachen,8.3,10050,3,10067,,,,1,2,,1.34
+21,2024-08-22 18:45:00,Thursday,Office,Contipark Aachen,8.3,40019,3,10013,,,,1,2,,1.34
+56,2024-10-09 16:45:00,Wednesday,Office,Contipark Aachen,8.3,40019,2,10072,30006,,,2,0,,2.67
+74,2024-08-02 19:15:00,Friday,Office,Fitness Pur Aachen,7.8,10011,1,40003,,,,1,0,,1.26
+100,2024-09-09 16:45:00,Monday,Office,Fitness Pur Aachen,7.8,40014,1,50015,,,,1,0,,1.26
+112,2024-09-25 16:30:00,Wednesday,Office,Fitness Pur Aachen,7.8,10079,3,10118,10042,,,2,1,,2.51
+160,2024-11-11 16:10:00,Monday,Office,Fitness Pur Aachen,7.8,10047,2,40015,10037,,,2,0,,2.51
+202,2024-11-27 19:29:00,Wednesday,Office,Fitness Pur Aachen,7.8,50013,1,50014,,,,1,0,,1.26
+12,2024-08-12 19:00:00,Monday,Office,DM Drogerie Markt,4.2,10003,2,10018,10016,,,2,0,,1.36
+13,2024-08-13 16:00:00,Tuesday,Office,DM Drogerie Markt,4.2,10086,3,10006,50010,,,2,1,,1.36
+18,2024-08-19 17:00:00,Monday,Office,DM Drogerie Markt,4.2,30004,2,50003,,,,1,1,,0.68
+64,2024-10-21 16:30:00,Monday,Office,DM Drogerie Markt,4.2,10072,4,10118,10023,,,2,2,,1.36
+78,2024-08-08 18:30:00,Thursday,Office,DM Drogerie Markt,4.2,10051,4,20002,40017,40009,,3,1,,2.03
+150,2024-11-06 18:12:00,Wednesday,Office,DM Drogerie Markt,4.2,10054,2,10108,,,,1,1,,0.68
+58,2024-10-11 18:00:00,Friday,Office,EDEKA Adebahr,4.4,10124,2,20015,,,,1,1,,0.70
+68,2024-10-25 17:00:00,Friday,Office,EDEKA Adebahr,4.4,50001,2,50012,10086,,,2,0,,1.40
+80,2024-08-12 16:45:00,Monday,Office,EDEKA Adebahr,4.4,50016,1,30007,,,,1,0,,0.70
+89,2024-08-23 19:30:00,Friday,Office,EDEKA Adebahr,4.4,20002,3,50018,10056,10116,,3,0,,2.10
+157,2024-11-08 17:42:00,Friday,Office,EDEKA Adebahr,4.4,40009,2,10118,,,,1,1,,0.70
+198,2024-11-26 18:59:00,Tuesday,Office,EDEKA Adebahr,4.4,10016,2,20009,10124,,,2,0,,1.40
+200,2024-11-27 16:38:00,Wednesday,Office,EDEKA Adebahr,4.4,10098,2,20019,10101,,,2,0,,1.40
+47,2024-09-26 08:00:00,Thursday,Aachen Hauptbahnhof,Office,9.3,20010,2,30006,,,,1,1,,1.50
+53,2024-10-04 08:15:00,Friday,Aachen Hauptbahnhof,Office,9.3,10083,2,10078,,,,1,1,,1.50
+77,2024-08-07 08:00:00,Wednesday,Aachen Hauptbahnhof,Office,9.3,10052,2,30006,10009,,,2,0,,2.99
+85,2024-08-19 08:45:00,Monday,Aachen Hauptbahnhof,Office,9.3,20006,3,10071,10052,10028,,3,0,,4.49
+162,2024-11-12 07:27:00,Tuesday,Albert Heijn,Office,7.6,10125,2,10086,10112,,,2,0,,2.45
+175,2024-11-15 08:08:00,Friday,Albert Heijn,Office,7.6,10030,3,10094,10034,10027,,3,0,,3.67
+176,2024-11-18 07:19:00,Monday,Albert Heijn,Office,7.6,10075,2,10059,10039,,,2,0,,2.45
+181,2024-11-19 09:05:00,Tuesday,Albert Heijn,Office,7.6,50005,3,50003,,,,1,2,,1.22
+189,2024-11-22 06:35:00,Friday,Albert Heijn,Office,7.6,40002,1,40009,,,,1,0,,1.22
+22,2024-08-23 08:30:00,Friday,APS Groep,Office,6.1,30001,4,50009,40002,,,2,2,,1.97
+24,2024-08-27 07:15:00,Tuesday,APS Groep,Office,6.1,10052,1,20015,,,,1,0,,0.98
+51,2024-10-02 06:45:00,Wednesday,APS Groep,Office,6.1,30004,4,20005,20019,10005,10062,4,0,,3.94
+55,2024-10-08 06:00:00,Tuesday,APS Groep,Office,6.1,10016,3,50008,10076,50017,,3,0,,2.95
+73,2024-08-01 08:30:00,Thursday,APS Groep,Office,6.1,10122,3,10059,,,,1,2,,0.98
+99,2024-09-06 07:00:00,Friday,APS Groep,Office,6.1,30001,4,10026,10109,,,2,2,,1.97
+113,2024-09-26 07:00:00,Thursday,APS Groep,Office,6.1,10048,2,10126,10071,,,2,0,,1.97
+141,2024-11-01 07:12:00,Friday,APS Groep,Office,6.1,50016,1,10059,,,,1,0,,0.98
+14,2024-08-14 07:45:00,Wednesday,Basisschool,Office,7.8,50010,2,10071,10017,,,2,0,,2.52
+26,2024-08-29 06:00:00,Thursday,Basisschool,Office,7.8,10043,3,20012,10054,50014,,3,0,,3.79
+32,2024-09-06 07:45:00,Friday,Basisschool,Office,7.8,10103,2,50011,,,,1,1,,1.26
+41,2024-09-18 06:30:00,Wednesday,Basisschool,Office,7.8,30005,1,10071,,,,1,0,,1.26
+45,2024-09-24 06:30:00,Tuesday,Basisschool,Office,7.8,50014,1,10015,,,,1,0,,1.26
+59,2024-10-14 08:45:00,Monday,Basisschool,Office,7.8,10052,2,10093,10062,,,2,0,,2.52
+65,2024-10-22 08:15:00,Tuesday,Basisschool,Office,7.8,20012,2,50004,10086,,,2,0,,2.52
+128,2024-10-17 07:00:00,Thursday,Basisschool,Office,7.8,20016,2,10005,40001,,,2,0,,2.52
+161,2024-11-11 09:04:00,Monday,Basisschool,Office,7.8,10009,2,50004,10084,,,2,0,,2.52
+186,2024-11-21 06:17:00,Thursday,Basisschool,Office,7.8,20018,1,10009,,,,1,0,,1.26
+188,2024-11-21 08:25:00,Thursday,Basisschool,Office,7.8,30005,1,40017,,,,1,0,,1.26
+203,2024-11-28 08:48:00,Thursday,Basisschool,Office,7.8,10114,1,10121,,,,1,0,,1.26
+3,2024-08-02 08:00:00,Friday,Contipark Aachen,Office,8.3,10076,1,10032,,,,1,0,,1.34
+6,2024-08-05 06:45:00,Monday,Contipark Aachen,Office,8.3,10057,4,10128,10032,,,2,2,,2.67
+20,2024-08-21 07:00:00,Wednesday,Contipark Aachen,Office,8.3,50002,4,30001,40019,50007,10035,4,0,,5.35
+30,2024-09-04 08:45:00,Wednesday,Contipark Aachen,Office,8.3,10124,4,50002,50014,,,2,2,,2.67
+39,2024-09-16 07:15:00,Monday,Fitness Pur Aachen,Office,7.8,10115,4,50007,40008,10014,10013,4,0,,5.02
+43,2024-09-20 07:30:00,Friday,Fitness Pur Aachen,Office,7.8,10026,4,40012,10008,,,2,2,,2.51
+79,2024-08-09 07:15:00,Friday,Fitness Pur Aachen,Office,7.8,10055,3,40009,40014,,,2,1,,2.51
+90,2024-08-26 06:15:00,Monday,Fitness Pur Aachen,Office,7.8,10104,3,20001,40001,20018,,3,0,,3.77
+94,2024-08-30 07:45:00,Friday,Fitness Pur Aachen,Office,7.8,10070,2,20010,10037,,,2,0,,2.51
+106,2024-09-17 06:15:00,Tuesday,Fitness Pur Aachen,Office,7.8,10076,4,10024,50016,50017,,3,1,,3.77
+117,2024-10-02 08:30:00,Wednesday,Fitness Pur Aachen,Office,7.8,40008,2,50011,40007,,,2,0,,2.51
+159,2024-11-11 08:34:00,Monday,Fitness Pur Aachen,Office,7.8,10014,2,10012,50003,,,2,0,,2.51
+197,2024-11-26 07:26:00,Tuesday,Fitness Pur Aachen,Office,7.8,20003,2,10022,50015,,,2,0,,2.51
+95,2024-09-02 06:00:00,Monday,DM Drogerie Markt,Office,4.2,10043,1,10090,,,,1,0,,0.68
+102,2024-09-11 08:00:00,Wednesday,DM Drogerie Markt,Office,4.2,10100,3,10043,50003,10037,,3,0,,2.03
+119,2024-10-04 06:45:00,Friday,DM Drogerie Markt,Office,4.2,10062,2,30006,10120,,,2,0,,1.36
+143,2024-11-04 08:22:00,Monday,DM Drogerie Markt,Office,4.2,10042,1,20015,,,,1,0,,0.68
+151,2024-11-06 07:45:00,Wednesday,DM Drogerie Markt,Office,4.2,10026,2,30003,10109,,,2,0,,1.36
+156,2024-11-08 06:50:00,Friday,DM Drogerie Markt,Office,4.2,30006,3,10127,10079,10089,,3,0,,2.03
+158,2024-11-08 08:16:00,Friday,DM Drogerie Markt,Office,4.2,10120,4,10023,10043,,,2,2,,1.36
+164,2024-11-12 09:39:00,Tuesday,DM Drogerie Markt,Office,4.2,30003,1,10058,,,,1,0,,0.68
+168,2024-11-13 08:43:00,Wednesday,DM Drogerie Markt,Office,4.2,50012,2,10085,50016,,,2,0,,1.36
+173,2024-11-15 07:10:00,Friday,DM Drogerie Markt,Office,4.2,10111,4,40011,10018,50012,,3,1,,2.03
+179,2024-11-19 06:31:00,Tuesday,DM Drogerie Markt,Office,4.2,10117,2,10057,10124,,,2,0,,1.36
+191,2024-11-22 09:13:00,Friday,DM Drogerie Markt,Office,4.2,10094,2,40014,,,,1,1,,0.68
+63,2024-10-18 07:00:00,Friday,EDEKA Adebahr,Office,4.4,10093,2,10127,,,,1,1,,0.70
+71,2024-10-30 07:45:00,Wednesday,EDEKA Adebahr,Office,4.4,10004,4,10048,10127,10085,40011,4,0,,2.81
+97,2024-09-04 08:30:00,Wednesday,EDEKA Adebahr,Office,4.4,10118,2,40018,10018,,,2,0,,1.40
+101,2024-09-10 06:30:00,Tuesday,EDEKA Adebahr,Office,4.4,10076,4,10124,30002,,,2,2,,1.40
+185,2024-11-20 08:01:00,Wednesday,EDEKA Adebahr,Office,4.4,10055,2,30006,10034,,,2,0,,1.40
+194,2024-11-25 08:09:00,Monday,EDEKA Adebahr,Office,4.4,10063,1,10024,,,,1,0,,0.70
+11,2024-08-09 08:15:00,Friday,Rewe,Office,,10061,4,10003,10085,,,2,2,,0.00
+67,2024-10-24 06:45:00,Thursday,Rewe,Office,,20009,2,50003,,,,1,1,,0.00
+75,2024-08-05 06:00:00,Monday,Rewe,Office,,50008,4,10119,10057,10076,,3,1,,0.00
+81,2024-08-13 06:30:00,Tuesday,Rewe,Office,,50010,4,10024,20019,,,2,2,,0.00
+108,2024-09-19 08:45:00,Thursday,Rewe,Office,,40006,2,10008,,,,1,1,,0.00
+121,2024-10-08 07:15:00,Tuesday,Rewe,Office,,10118,2,10111,10105,,,2,0,,0.00
+123,2024-10-10 08:00:00,Thursday,Rewe,Office,,20016,2,10104,30002,,,2,0,,0.00
+125,2024-10-14 06:30:00,Monday,Rewe,Office,,10044,1,40017,,,,1,0,,0.00
+130,2024-10-21 06:15:00,Monday,Rewe,Office,,10103,1,10118,,,,1,0,,0.00
+135,2024-10-28 07:45:00,Monday,Rewe,Office,,10115,2,10076,10111,,,2,0,,0.00
+153,2024-11-07 07:39:00,Thursday,Rewe,Office,,30001,2,10032,50015,,,2,0,,0.00
+170,2024-11-14 06:13:00,Thursday,Rewe,Office,,10021,2,10048,10097,,,2,0,,0.00
+172,2024-11-14 09:21:00,Thursday,Rewe,Office,,10088,4,10085,,,,1,3,,0.00
+183,2024-11-20 07:32:00,Wednesday,Rewe,Office,,10100,1,10078,,,,1,0,,0.00
+199,2024-11-27 08:02:00,Wednesday,Rewe,Office,,10021,1,40005,,,,1,0,,0.00
+17,2024-08-19 08:00:00,Monday,Sporting Heerlen,Office,,10106,2,40019,10083,,,2,0,,0.00
+28,2024-09-02 07:00:00,Monday,Sporting Heerlen,Office,,10101,2,10053,10033,,,2,0,,0.00
+109,2024-09-20 06:00:00,Friday,Sporting Heerlen,Office,,10052,3,10031,50014,10028,,3,0,,0.00
+111,2024-09-24 08:15:00,Tuesday,Sporting Heerlen,Office,,40008,2,20013,50015,,,2,0,,0.00
+132,2024-10-23 07:30:00,Wednesday,Sporting Heerlen,Office,,40004,1,40015,,,,1,0,,0.00
+134,2024-10-25 08:15:00,Friday,Sporting Heerlen,Office,,10002,1,50008,,,,1,0,,0.00
+139,2024-11-01 06:32:00,Friday,Sporting Heerlen,Office,,20008,2,10053,10096,,,2,0,,0.00
+10,2024-08-08 06:15:00,Thursday,Station Heerlen,Office,,10113,3,50003,50010,20003,,3,0,,0.00
+16,2024-08-16 06:30:00,Friday,Station Heerlen,Office,,40002,1,10102,,,,1,0,,0.00
+34,2024-09-10 06:15:00,Tuesday,Station Heerlen,Office,,10060,4,20019,20015,10110,,3,1,,0.00
+36,2024-09-12 08:00:00,Thursday,Station Heerlen,Office,,10084,4,20002,40005,,,2,2,,0.00
+38,2024-09-13 08:30:00,Friday,Station Heerlen,Office,,20005,4,10068,20007,,,2,2,,0.00
+49,2024-09-30 07:45:00,Monday,Station Heerlen,Office,,10063,2,50009,10104,,,2,0,,0.00
+57,2024-10-10 07:30:00,Thursday,Station Heerlen,Office,,50010,3,10059,10003,,,2,1,,0.00
+86,2024-08-20 07:30:00,Tuesday,Station Heerlen,Office,,10045,4,10103,40007,10068,10120,4,0,,0.00
+146,2024-11-05 06:47:00,Tuesday,Station Heerlen,Office,,10066,2,40002,20016,,,2,0,,0.00
+149,2024-11-06 06:56:00,Wednesday,Station Heerlen,Office,,10062,3,10097,20019,10026,,3,0,,0.00
+192,2024-11-25 07:03:00,Monday,Station Heerlen,Office,,10008,3,10039,10001,,,2,1,,0.00
+1,2024-08-01 06:15:00,Thursday,Wasserturm Würselen,Office,,10061,3,50014,10035,,,2,1,,0.00
+8,2024-08-06 07:30:00,Tuesday,Wasserturm Würselen,Office,,10103,3,10126,10022,50007,,3,0,,0.00
+61,2024-10-16 06:15:00,Wednesday,Wasserturm Würselen,Office,,10036,4,10108,30003,30009,10032,4,0,,0.00
+69,2024-10-28 08:00:00,Monday,Wasserturm Würselen,Office,,10066,2,10085,,,,1,1,,0.00
+83,2024-08-15 07:00:00,Thursday,Wasserturm Würselen,Office,,40016,4,10070,50014,,,2,2,,0.00
+88,2024-08-22 08:15:00,Thursday,Wasserturm Würselen,Office,,10002,2,10109,30002,,,2,0,,0.00
+92,2024-08-28 08:00:00,Wednesday,Wasserturm Würselen,Office,,50004,4,10050,10111,10108,10089,4,0,,0.00
+104,2024-09-13 07:45:00,Friday,Wasserturm Würselen,Office,,10039,2,10112,10037,,,2,0,,0.00
+115,2024-09-30 07:30:00,Monday,Wasserturm Würselen,Office,,20011,1,10056,,,,1,0,,0.00
+127,2024-10-16 08:45:00,Wednesday,Wasserturm Würselen,Office,,10019,2,20019,,,,1,1,,0.00
+137,2024-10-30 06:45:00,Wednesday,Wasserturm Würselen,Office,,10038,2,10072,10089,,,2,0,,0.00
+166,2024-11-13 07:54:00,Wednesday,Wasserturm Würselen,Office,,30006,4,50012,10100,,,2,2,,0.00
+195,2024-11-26 06:45:00,Tuesday,Wasserturm Würselen,Office,,10115,3,20019,40003,,,2,1,,0.00
+201,2024-11-27 06:22:00,Wednesday,Wasserturm Würselen,Office,,10122,2,10070,30003,,,2,0,,0.00
+25,2024-08-28 16:45:00,Wednesday,Office,Rewe,,10055,3,30005,30006,40001,,3,0,,0.00
+31,2024-09-05 16:30:00,Thursday,Office,Rewe,,20008,2,10051,20002,,,2,0,,0.00
+42,2024-09-19 18:45:00,Thursday,Office,Rewe,,30005,2,10105,10122,,,2,0,,0.00
+48,2024-09-27 16:00:00,Friday,Office,Rewe,,10006,2,50008,10111,,,2,0,,0.00
+103,2024-09-12 19:15:00,Thursday,Office,Rewe,,10051,1,10084,,,,1,0,,0.00
+105,2024-09-16 18:30:00,Monday,Office,Rewe,,10101,3,10076,10079,10100,,3,0,,0.00
+2,2024-08-01 17:30:00,Thursday,Office,Sporting Heerlen,,40014,4,10018,40015,50008,10108,4,0,,0.00
+4,2024-08-02 19:15:00,Friday,Office,Sporting Heerlen,,10061,2,50015,10088,,,2,0,,0.00
+5,2024-08-05 16:15:00,Monday,Office,Sporting Heerlen,,20011,3,10071,,,,1,2,,0.00
+76,2024-08-06 17:00:00,Tuesday,Office,Sporting Heerlen,,10014,4,50003,20007,10078,10023,4,0,,0.00
+96,2024-09-03 17:15:00,Tuesday,Office,Sporting Heerlen,,10114,3,10033,,,,1,2,,0.00
+107,2024-09-18 17:00:00,Wednesday,Office,Sporting Heerlen,,10012,1,10128,,,,1,0,,0.00
+114,2024-09-27 18:00:00,Friday,Office,Sporting Heerlen,,10015,1,10015,,,,1,0,,0.00
+122,2024-10-09 16:15:00,Wednesday,Office,Sporting Heerlen,,40006,4,50009,10109,,,2,2,,0.00
+124,2024-10-11 19:15:00,Friday,Office,Sporting Heerlen,,10080,3,10054,50018,20001,,3,0,,0.00
+126,2024-10-15 17:30:00,Tuesday,Office,Sporting Heerlen,,10060,1,20005,,,,1,0,,0.00
+148,2024-11-05 17:29:00,Tuesday,Office,Sporting Heerlen,,50001,2,10006,10061,,,2,0,,0.00
+169,2024-11-13 19:35:00,Wednesday,Office,Sporting Heerlen,,40015,1,10033,,,,1,0,,0.00
+182,2024-11-19 19:48:00,Tuesday,Office,Sporting Heerlen,,10018,1,20007,,,,1,0,,0.00
+184,2024-11-20 17:23:00,Wednesday,Office,Sporting Heerlen,,20007,1,10023,,,,1,0,,0.00
+15,2024-08-15 18:30:00,Thursday,Office,Station Heerlen,,10028,2,10110,10079,10021,,3,-1,,0.00
+19,2024-08-20 16:15:00,Tuesday,Office,Station Heerlen,,40018,2,10035,20005,,,2,0,,0.00
+33,2024-09-09 18:00:00,Monday,Office,Station Heerlen,,20014,4,10053,10121,30006,10094,4,0,,0.00
+40,2024-09-17 16:15:00,Tuesday,Office,Station Heerlen,,40019,2,10019,10004,,,2,0,,0.00
+52,2024-10-03 17:15:00,Thursday,Office,Station Heerlen,,10094,1,10118,,,,1,0,,0.00
+54,2024-10-07 19:30:00,Monday,Office,Station Heerlen,,10121,2,40015,10076,,,2,0,,0.00
+70,2024-10-29 19:15:00,Tuesday,Office,Station Heerlen,,10055,1,10033,,,,1,0,,0.00
+91,2024-08-27 17:30:00,Tuesday,Office,Station Heerlen,,40004,4,10060,50012,,,2,2,,0.00
+93,2024-08-29 18:45:00,Thursday,Office,Station Heerlen,,10093,2,20012,10096,,,2,0,,0.00
+133,2024-10-24 16:00:00,Thursday,Office,Station Heerlen,,10038,4,10076,,,,1,3,,0.00
+7,2024-08-06 18:00:00,Tuesday,Office,Wasserturm Würselen,,40010,3,30002,,,,1,2,,0.00
+35,2024-09-11 17:45:00,Wednesday,Office,Wasserturm Würselen,,10041,2,20013,20012,,,2,0,,0.00
+44,2024-09-23 19:00:00,Monday,Office,Wasserturm Würselen,,10073,3,20013,,,,1,2,,0.00
+60,2024-10-15 17:30:00,Tuesday,Office,Wasserturm Würselen,,10076,4,40002,10067,10006,10097,4,0,,0.00
+62,2024-10-17 19:00:00,Thursday,Office,Wasserturm Würselen,,20002,2,20009,40009,,,2,0,,0.00
+66,2024-10-23 18:15:00,Wednesday,Office,Wasserturm Würselen,,50011,2,10016,10058,,,2,0,,0.00
+110,2024-09-23 19:30:00,Monday,Office,Wasserturm Würselen,,10096,4,50003,10094,,,2,2,,0.00
+154,2024-11-07 16:28:00,Thursday,Office,Wasserturm Würselen,,50008,4,20009,10124,,,2,2,,0.00
+165,2024-11-12 16:59:00,Tuesday,Office,Wasserturm Würselen,,10040,4,50003,10079,,,2,2,,0.00
