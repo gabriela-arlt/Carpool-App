@@ -4,9 +4,9 @@
 
 ## Data:
 + GPT generated
-+ ride data: 250 rides 
-+ user database
-+ pre-decided locations with their coordinates
++ Rides Dataset: 250 rides 
++ Users dataset
++ Locations dataset: pre-decided locations with their coordinates
 ## Libraries used: 
 + Data Management:
 Data Handling: Manipulating and analyzing data with pandas.
