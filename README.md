@@ -1,6 +1,6 @@
 ﻿
 # Project: ﻿Carpool Application: Plots for the Data Analytics tab with pre-generated data
-## Premise of the project: This project is part of a Hackaton competition. The topic of the competition is Green Offices. My team from CAB hs decided to create a carpoolapp which aims to allow emplyees post and book shared rides within the company. The app will be used by employees who work in industrial areas where public transport is weak and people need to drive by car in order to get to their office. Example (Main office of DocMorris: 43 minutes by public transport and 8 minutes by car. The app will promote sustainability by reducing CO2 emissions. The companies whould be able to share their results in section3 of their ESG reports.
+## Premise of the project: This project is part of a Hackaton competition. The topic of the competition is Green Offices. My team from CAB decided to create a carpoolapp which aimed to allow emplyees to post and book shared rides within the company. The app will be used by employees who work in industrial areas where public transportation is weak and people need to drive by car in order to get to their office. Example (Main office of DocMorris: 43 minutes by public transport and 8 minutes by car. The app will promote sustainability by reducing CO2 emissions. The companies whould be able to share their results in section3 of their ESG reports.
 
 ## Data:
 + GPT generated
